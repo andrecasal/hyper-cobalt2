@@ -1,0 +1,12 @@
+{
+	"name": "hyper-cobalt2",
+	"version": "1.0.0",
+	"description": "Cobalt2 Theme for Hyper",
+	"main": "index.js",
+	"scripts": {},
+	"keywords": [
+		"hyper-theme"
+	],
+	"author": "André Casal",
+	"license": "MIT"
+}
